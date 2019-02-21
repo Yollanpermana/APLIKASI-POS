@@ -1,0 +1,2 @@
+# APLIKASI-POS
+Program sederhana
